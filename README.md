@@ -5,6 +5,8 @@
     pip install opencv-python
     
     pip install pillow
+    
+    pip install opencv-contrib-python
  
 ## Step 1
 
