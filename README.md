@@ -1,5 +1,8 @@
 # Face_ID
 
+This method doesnt use any deep learnign techniques for the training so the 
+accuracy is pretty low.
+
 ## Pre-requisite
 
     pip install opencv-python
